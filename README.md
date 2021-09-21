@@ -1,1 +1,1 @@
-This is my first time usign GitHub.
+This is my first time using GitHub.
